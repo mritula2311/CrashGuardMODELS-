@@ -12,7 +12,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # ---------- 2. Config ----------
-DATA_PATH = "C:/piggy/feed.csv"  
+DATA_PATH = "C:/feed.csv"  
 BATCH_SIZE = 32
 EPOCHS = 100
 LR = 1e-3
